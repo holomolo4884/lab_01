@@ -1,13 +1,5 @@
 #include "suit_functions.h"
 
-const int State_Mask[] = {
-    invisible,
-    silence,
-    ir_suppression,
-    radio_suppression,
-    power_saving
-};
-
 // функция для изменения состояния на противоположное
 void toggle_state(int& suit_state, int state_number){
     if (state_number >= 1 && state_number <= 5){
