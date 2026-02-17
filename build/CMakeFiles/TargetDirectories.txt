@@ -1,0 +1,3 @@
+/Users/vladik/Documents/tpu_c++/2_semestr/lb_1/build/CMakeFiles/lab_01.dir
+/Users/vladik/Documents/tpu_c++/2_semestr/lb_1/build/CMakeFiles/edit_cache.dir
+/Users/vladik/Documents/tpu_c++/2_semestr/lb_1/build/CMakeFiles/rebuild_cache.dir
