@@ -3,13 +3,13 @@
 // функция для изменения состояния на противоположное
 void toggle_state(int& suit_state, int state_number){
     if (state_number >= 1 && state_number <= 5){
-        suit_state ^= (1 << state_number); // XOR инвертриует бит
+        suit_state ^= (1 << (state_number - 1)); // XOR инвертриует бит
     }
 }
 // функция для проверки активности состояния
 bool is_state_active(int suit_state, int state_number){
     if (state_number >= 1 && state_number <= 5){
-        if (suit_state & (1 << state_number)){ // проверка на включение состояния
+        if (suit_state & (1 << (state_number - 1))){ // проверка на включение состояния
             return true;
         }
     }
