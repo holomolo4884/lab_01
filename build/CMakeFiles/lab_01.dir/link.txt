@@ -1,1 +1,1 @@
-/usr/bin/g++ -g -arch arm64 -Wl,-search_paths_first -Wl,-headerpad_max_install_names CMakeFiles/lab_01.dir/src/main.cpp.o CMakeFiles/lab_01.dir/src/functions.cpp.o -o lab_01
+/opt/homebrew/bin/aarch64-apple-darwin25-g++-15 -g -arch arm64 -Wl,-search_paths_first -Wl,-headerpad_max_install_names CMakeFiles/lab_01.dir/src/main.cpp.o CMakeFiles/lab_01.dir/src/functions.cpp.o -o lab_01

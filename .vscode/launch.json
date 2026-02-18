@@ -2,7 +2,7 @@
     "version": "0.2.0",
     "configurations": [
         {
-            "name": "CodeLLDB",
+            "name": "Отладка lab_01",
             "type": "cppdbg",
             "request": "launch",
             "program": "${workspaceFolder}/build/lab_01",
@@ -12,8 +12,8 @@
             "environment": [],
             "externalConsole": false,
             "MIMode": "lldb",
-            "miDebuggerPath": "/Applications/Xcode.app/Contents/Developer/usr/bin/lldb",
-            "preLaunchTask": "CMake build"
+            "miDebuggerPath": "/opt/homebrew/opt/llvm/bin/lldb",
+            "preLaunchTask": "build lab_01"
         }
     ]
 }

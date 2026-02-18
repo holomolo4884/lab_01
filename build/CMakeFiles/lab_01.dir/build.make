@@ -76,29 +76,29 @@ CMakeFiles/lab_01.dir/src/main.cpp.o: CMakeFiles/lab_01.dir/flags.make
 CMakeFiles/lab_01.dir/src/main.cpp.o: /Users/vladik/Documents/tpu_c++/2_semestr/lb_1/src/main.cpp
 CMakeFiles/lab_01.dir/src/main.cpp.o: CMakeFiles/lab_01.dir/compiler_depend.ts
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/Users/vladik/Documents/tpu_c++/2_semestr/lb_1/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object CMakeFiles/lab_01.dir/src/main.cpp.o"
-	/usr/bin/g++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/lab_01.dir/src/main.cpp.o -MF CMakeFiles/lab_01.dir/src/main.cpp.o.d -o CMakeFiles/lab_01.dir/src/main.cpp.o -c /Users/vladik/Documents/tpu_c++/2_semestr/lb_1/src/main.cpp
+	/opt/homebrew/bin/aarch64-apple-darwin25-g++-15 $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/lab_01.dir/src/main.cpp.o -MF CMakeFiles/lab_01.dir/src/main.cpp.o.d -o CMakeFiles/lab_01.dir/src/main.cpp.o -c /Users/vladik/Documents/tpu_c++/2_semestr/lb_1/src/main.cpp
 
 CMakeFiles/lab_01.dir/src/main.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing CXX source to CMakeFiles/lab_01.dir/src/main.cpp.i"
-	/usr/bin/g++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/vladik/Documents/tpu_c++/2_semestr/lb_1/src/main.cpp > CMakeFiles/lab_01.dir/src/main.cpp.i
+	/opt/homebrew/bin/aarch64-apple-darwin25-g++-15 $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/vladik/Documents/tpu_c++/2_semestr/lb_1/src/main.cpp > CMakeFiles/lab_01.dir/src/main.cpp.i
 
 CMakeFiles/lab_01.dir/src/main.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/lab_01.dir/src/main.cpp.s"
-	/usr/bin/g++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/vladik/Documents/tpu_c++/2_semestr/lb_1/src/main.cpp -o CMakeFiles/lab_01.dir/src/main.cpp.s
+	/opt/homebrew/bin/aarch64-apple-darwin25-g++-15 $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/vladik/Documents/tpu_c++/2_semestr/lb_1/src/main.cpp -o CMakeFiles/lab_01.dir/src/main.cpp.s
 
 CMakeFiles/lab_01.dir/src/functions.cpp.o: CMakeFiles/lab_01.dir/flags.make
 CMakeFiles/lab_01.dir/src/functions.cpp.o: /Users/vladik/Documents/tpu_c++/2_semestr/lb_1/src/functions.cpp
 CMakeFiles/lab_01.dir/src/functions.cpp.o: CMakeFiles/lab_01.dir/compiler_depend.ts
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/Users/vladik/Documents/tpu_c++/2_semestr/lb_1/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Building CXX object CMakeFiles/lab_01.dir/src/functions.cpp.o"
-	/usr/bin/g++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/lab_01.dir/src/functions.cpp.o -MF CMakeFiles/lab_01.dir/src/functions.cpp.o.d -o CMakeFiles/lab_01.dir/src/functions.cpp.o -c /Users/vladik/Documents/tpu_c++/2_semestr/lb_1/src/functions.cpp
+	/opt/homebrew/bin/aarch64-apple-darwin25-g++-15 $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/lab_01.dir/src/functions.cpp.o -MF CMakeFiles/lab_01.dir/src/functions.cpp.o.d -o CMakeFiles/lab_01.dir/src/functions.cpp.o -c /Users/vladik/Documents/tpu_c++/2_semestr/lb_1/src/functions.cpp
 
 CMakeFiles/lab_01.dir/src/functions.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing CXX source to CMakeFiles/lab_01.dir/src/functions.cpp.i"
-	/usr/bin/g++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/vladik/Documents/tpu_c++/2_semestr/lb_1/src/functions.cpp > CMakeFiles/lab_01.dir/src/functions.cpp.i
+	/opt/homebrew/bin/aarch64-apple-darwin25-g++-15 $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/vladik/Documents/tpu_c++/2_semestr/lb_1/src/functions.cpp > CMakeFiles/lab_01.dir/src/functions.cpp.i
 
 CMakeFiles/lab_01.dir/src/functions.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/lab_01.dir/src/functions.cpp.s"
-	/usr/bin/g++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/vladik/Documents/tpu_c++/2_semestr/lb_1/src/functions.cpp -o CMakeFiles/lab_01.dir/src/functions.cpp.s
+	/opt/homebrew/bin/aarch64-apple-darwin25-g++-15 $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/vladik/Documents/tpu_c++/2_semestr/lb_1/src/functions.cpp -o CMakeFiles/lab_01.dir/src/functions.cpp.s
 
 # Object files for target lab_01
 lab_01_OBJECTS = \

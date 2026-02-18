@@ -1,13 +1,13 @@
 [
 {
   "directory": "/Users/vladik/Documents/tpu_c++/2_semestr/lb_1/build",
-  "command": "/usr/bin/g++  -I/Users/vladik/Documents/tpu_c++/2_semestr/lb_1/include -g -std=c++17 -arch arm64 -o CMakeFiles/lab_01.dir/src/main.cpp.o -c /Users/vladik/Documents/tpu_c++/2_semestr/lb_1/src/main.cpp",
+  "command": "/opt/homebrew/bin/aarch64-apple-darwin25-g++-15  -I/Users/vladik/Documents/tpu_c++/2_semestr/lb_1/include -g -std=c++17 -arch arm64 -o CMakeFiles/lab_01.dir/src/main.cpp.o -c /Users/vladik/Documents/tpu_c++/2_semestr/lb_1/src/main.cpp",
   "file": "/Users/vladik/Documents/tpu_c++/2_semestr/lb_1/src/main.cpp",
   "output": "CMakeFiles/lab_01.dir/src/main.cpp.o"
 },
 {
   "directory": "/Users/vladik/Documents/tpu_c++/2_semestr/lb_1/build",
-  "command": "/usr/bin/g++  -I/Users/vladik/Documents/tpu_c++/2_semestr/lb_1/include -g -std=c++17 -arch arm64 -o CMakeFiles/lab_01.dir/src/functions.cpp.o -c /Users/vladik/Documents/tpu_c++/2_semestr/lb_1/src/functions.cpp",
+  "command": "/opt/homebrew/bin/aarch64-apple-darwin25-g++-15  -I/Users/vladik/Documents/tpu_c++/2_semestr/lb_1/include -g -std=c++17 -arch arm64 -o CMakeFiles/lab_01.dir/src/functions.cpp.o -c /Users/vladik/Documents/tpu_c++/2_semestr/lb_1/src/functions.cpp",
   "file": "/Users/vladik/Documents/tpu_c++/2_semestr/lb_1/src/functions.cpp",
   "output": "CMakeFiles/lab_01.dir/src/functions.cpp.o"
 }

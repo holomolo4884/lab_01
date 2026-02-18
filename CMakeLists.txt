@@ -2,8 +2,8 @@ cmake_minimum_required(VERSION 3.10.0)
 project(lb_1 VERSION 0.1.0 LANGUAGES C CXX)
 
 # явно указываем использование g++
-set(CMAKE_CXX_COMPILER "/usr/bin/g++")
-set(CMAKE_C_COMPILER "/usr/bin/gcc")
+# set(CMAKE_CXX_COMPILER "/usr/bin/g++")
+# set(CMAKE_C_COMPILER "/usr/bin/gcc")
 
 # настройки компиляции
 set(CMAKE_CXX_STANDARD 17)
